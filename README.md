@@ -1,4 +1,4 @@
-# Poetrygram
+# Poetrygram ✍🏻
 
 Poetrygram is a social media platform for poets and poetry enthusiasts. It allows users to create profiles, connect with other poets, share their poems, and discover new poets.
 
