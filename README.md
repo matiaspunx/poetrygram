@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Poetrygram
+
+Poetrygram is a social media platform for poets and poetry enthusiasts. It allows users to create profiles, connect with other poets, share their poems, and discover new poets.
+
+Poetrygram is built using Next.js, Supabase, and Tailwind CSS.
+
+Poetrygram is a open source work in progress and is currently in development. Contributions are welcome!
 
 ## Getting Started
 
